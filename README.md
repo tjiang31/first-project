@@ -1,2 +1,2 @@
-# first-project
-My first GitHub project
+Tianyu Jiang
+pkujiangty@gmail.com
